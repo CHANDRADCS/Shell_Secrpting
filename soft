@@ -1,0 +1,30 @@
+#! bin/bash
+
+THIS IS INSERT MODE COMMANDS
+i--->	begin insert the cursour
+I---> 	insert ait begining
+a--->	next word letter
+A--->	next end of the line
+o--->	new line below cursour
+O--->	new line above cursour
+
+COMMAND MODE
+gg--->	begining of the page
+G--->	end of the page
+w--->	forward word by word
+5w-->	forward 5words
+b--->	backword word by word
+5b--->	backword 5words
+u--->	undo last change
+U--->	previous changes
+yy--->	copy a line
+4yy--->	4 lines copy
+p--->	past line below the cursour
+P--->	past line above the cursour
+dw--->	delete the wordletter by letter
+x--->	delete the word
+dd--->	delete entair line
+5dd--->	delete 5lines
+
+ctrl+R--->	redo the all changes
+
